@@ -21,6 +21,7 @@ I'm passionate about problem-solving, logical thinking and building impactful te
 ### 📬 Find Me Here
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/doreenparekh)
-
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:f20250321@dubai.bits-pilani.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/doreensys)
 
 
